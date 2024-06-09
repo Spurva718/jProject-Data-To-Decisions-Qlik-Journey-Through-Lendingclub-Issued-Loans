@@ -1,6 +1,6 @@
 # jProject-Data-To-Decisions-Qlik-Journey-Through-Lendingclub-Issued-Loans
 This respo was created for the Submission of Project during my Internship period in Qlik Sense as a Bussiness Analyst Intern. 
-## Project Title "Data To Decisions Qlik Journey Through Lendingclub Issued Loans" ie Lending Club Loan Analysis with Qlik Clound 
+## Project Title "Data To Decisions Qlik Journey Through Lendingclub Issued Loans" ie Lending Club Loan Analysis with Qlik Cloud 
 
 ## DATASET - 
   https://drive.google.com/file/d/1faVj5MMzge4NvhK4bSwkfAagx1R4eI5h/view?usp=sharing
